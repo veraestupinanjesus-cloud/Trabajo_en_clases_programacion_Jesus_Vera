@@ -1,4 +1,4 @@
 #ifndef RESTAR_H
-#define Restar_H
+#define RESTAR_H
 int restar(int a, int b);
 #endif
